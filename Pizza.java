@@ -3,6 +3,12 @@
  * Period 5
  * 10/23/2024
  * Pizza.java
+ * Working on:
+ * 1. Inheritance (subclasses and superclasses)
+ * 2. Using methods from other classes
+ * 3. Initializing and creating an instance of classes to call methods
+ *
+ * Purpose: The purpose of this program is to print the way different types of foods are baked
  */
  
  public class Pizza extends Food		//Use keyword extends because Pizza is a subclass of Food
