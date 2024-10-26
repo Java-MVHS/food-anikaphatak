@@ -2,6 +2,15 @@
  * Anika Phatak
  * Period 5
  * 10/23/2024
+ * FoodTester.java
+ *
+ * Purpose: FoodTester has the main methods which will run all the classes - Pizza, DeepDishPizza, and Food
+ * the purpose of the program is to print the types of food, methods used to prepare each type of food and the ingredients in the food
+ * 
+ * Working on:
+ * 1. Inheritance and subclasses
+ * 2. Using methods from other classes
+ * 3. Initializing and creating an instance of classes to call methods
  */
  
  public class FoodTester 
