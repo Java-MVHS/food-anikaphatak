@@ -4,6 +4,8 @@
  * 10/23/2024
  * DeepDishPizza3.java
  * 
+ * DeepDishPizza3 is a subclass of Pizza3, Pizza3 is a subclass of Food, so DeepDishPizza3 orginates from Food
+ *
  * The purpose of this program is to print three lines with the type of food
  * cost of food, number of the food item sold and how the food is prepared
  * 
