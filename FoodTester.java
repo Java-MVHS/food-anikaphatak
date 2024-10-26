@@ -21,8 +21,8 @@
 	 
 	 public static void main(String[] args)
 	 {
-	    FoodTester ft = new FoodTester();		//Create an instance of FoodTester3 to call the method blankLines 
-		ft.blankLines();					//call blankLines
+	    	FoodTester ft = new FoodTester();		//Create an instance of FoodTester3 to call the method blankLines 
+	    	ft.blankLines();					//call blankLines
 		
 		//Create and initialize an instance of the class Food and call the method printForSale() in food using the instance
 		Food food1 = new Food ("baked", "bananas", "muffins");	
