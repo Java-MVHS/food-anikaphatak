@@ -4,6 +4,8 @@
  * 10/23/2024
  * FoodTester3.java
  * 
+ * FoodTester3 contains the main method to run all the classes - Food3, Pizza3, DeepDishPizza3
+ *
  * The purpose of this program is to print three lines with the type of food
  * cost of food, number of the food item sold and how the food is prepared
  * 
