@@ -3,6 +3,9 @@
  * Period 5
  * 10/23/2024
  * Pizza.java
+ *
+ * Pizza is a subclass of Food
+ *
  * Working on:
  * 1. Inheritance (subclasses and superclasses)
  * 2. Using methods from other classes
@@ -13,16 +16,9 @@
  
  public class Pizza extends Food		//Use keyword extends because Pizza is a subclass of Food
  {
- 	 //Declare field variable topping and name2 to store
- 	 //the pizza's topping and the pizza's name
- 	 
-	 protected String topping;
-	 protected String name2;
-	
-	 public Pizza()
+ 	 	
+	 public Pizza()		//Create a default constructor because extends calls the constructor with no parameters
 	 {
-	 	topping = "pineapple";		//initialize field variables in the default constructor of Pizza
-	 	name2 = "Pizza";
 	 }
 	 
 	 public Pizza(String toppingIn)
